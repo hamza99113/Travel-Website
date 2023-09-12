@@ -1,0 +1,25 @@
+@media(max-width:768px){
+    .home{
+        background-position: 50%;
+    }
+    .book{
+        padding: 0;
+    }
+    .main-text h1{
+        padding: 20px;
+    }
+    .about{
+        padding: 0;  
+    }
+}
+@media(max-width:450px){
+    .home .content h5{
+        font-size: 25px;
+    }
+    .home .content h1{
+        font-size: 38px;
+    }
+    .home .content p{
+        font-size: 13px;
+    }
+}
