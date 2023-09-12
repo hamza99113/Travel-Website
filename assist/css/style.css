@@ -45,6 +45,7 @@ transition: 0.5s ease;
     background: orange;
     color: white;
     border: none;
+    text-decoration: none;
 }
 /*Navbar End*/
 
